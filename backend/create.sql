@@ -1,7 +1,6 @@
 INSERT INTO tb_user(email) VALUES ('maria@gmail.com');
 INSERT INTO tb_user(email) VALUES ('joao@gmail.com');
 INSERT INTO tb_user(email) VALUES ('ana@gmail.com');
-INSERT INTO tb_user(email) VALUES ('lucia@gmail.com');
 INSERT INTO tb_user(email) VALUES ('joaquim@gmail.com');
 
 INSERT INTO tb_movie(score, count, title, image) VALUES (4.5, 2, 'The Witcher', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg');
